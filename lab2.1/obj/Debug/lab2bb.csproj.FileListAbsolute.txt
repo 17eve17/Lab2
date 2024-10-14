@@ -1,0 +1,7 @@
+C:\Users\vival\source\repos\lab2.1\lab2bb\bin\Debug\lab2bb.exe.config
+C:\Users\vival\source\repos\lab2.1\lab2bb\bin\Debug\lab2bb.exe
+C:\Users\vival\source\repos\lab2.1\lab2bb\bin\Debug\lab2bb.pdb
+C:\Users\vival\source\repos\lab2.1\lab2bb\obj\Debug\lab2bb.csproj.AssemblyReference.cache
+C:\Users\vival\source\repos\lab2.1\lab2bb\obj\Debug\lab2bb.csproj.CoreCompileInputs.cache
+C:\Users\vival\source\repos\lab2.1\lab2bb\obj\Debug\lab2bb.exe
+C:\Users\vival\source\repos\lab2.1\lab2bb\obj\Debug\lab2bb.pdb
